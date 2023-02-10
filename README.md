@@ -10,7 +10,6 @@
 </div>
 
 ---
-<div id="header" align="left">
 ### :woman_technologist: About me : 
 
 I'm an advance student in Atmospheric Sciences and passionate about Data <img src="https://media.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif" width="30">
@@ -21,11 +20,11 @@ I'm an advance student in Atmospheric Sciences and passionate about Data <img sr
 
 * :heartbeat: I love challenges
 
-* :mailbox: Contact me [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daianalavecchia/)
-</div>
+* :mailbox: Contact me
+
 ---
-<div id="header" align="left">
 ### :hammer_and_wrench: Skills :
+<div id="header" align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://seekvectorlogo.com/wp-content/uploads/2019/04/qlik-vector-logo.png" title="Qlik" alt="Qlik" width="40" height="40"/>&nbsp;
