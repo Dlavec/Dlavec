@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Dlavec/Dlavec/blob/main/Cover_DL.png" width="800"/>
+  <img src="https://github.com/Dlavec/Dlavec/blob/main/Cover_DL.png" width="900"/>
   <h1 align="center">Hi, It's great to see you here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
