@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/Dlavec/Dlavec/blob/main/Cover_DL.png" width="800"/>
-  <h1 align="center">Hi, my name is Daiana. It's great to see you here!
+  <h1 align="center">Hi, It's great to see you here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
