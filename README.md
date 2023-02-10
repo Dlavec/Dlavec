@@ -9,7 +9,6 @@
 ### :woman_technologist: About me : 
 
 I'm an advance student in Atmospheric Sciences and passionate about Data
-I'm from Argentina
 
 * :telescope: I'm currently working on personal projects but I need new challenges :muscle:
 
