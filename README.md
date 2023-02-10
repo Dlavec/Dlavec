@@ -5,10 +5,6 @@
   </h1>
 </div>
 
-<div id="badges" align="center">
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daianalavecchia/)
-</div>
-
 ---
 ### :woman_technologist: About me : 
 
@@ -20,7 +16,7 @@ I'm an advance student in Atmospheric Sciences and passionate about Data <img sr
 
 * :heartbeat: I love challenges
 
-* :mailbox: Contact me
+* :mailbox: Contact me [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daianalavecchia/)
 
 ---
 ### :hammer_and_wrench: Skills :
