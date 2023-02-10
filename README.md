@@ -23,5 +23,5 @@ I'm an advance student in Atmospheric Sciences and passionate about Data <img sr
 <div id="header" align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://seekvectorlogo.com/wp-content/uploads/2019/04/qlik-vector-logo.png" title="Qlik" alt="Qlik" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Dlavec/Dlavec/blob/main/qlik1.png" title="Qlik" alt="Qlik" width="40" height="40"/>&nbsp;
 </div>
