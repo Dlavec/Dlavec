@@ -17,8 +17,12 @@ I'm an advance student in Atmospheric Sciences and passionate about Data
 * :heartbeat: I love challenges
 
 * :mailbox: Contact me: 
+
+
 ![](https://github.com/Dlavec/Dlavec/blob/main/linkedin_logo%20(1).png)<https://www.linkedin.com/in/daianalavecchia/>
+
 ![](https://github.com/Dlavec/Dlavec/blob/main/web_icon%20(1).png)<https://daianalavecchia.wordpress.com/>
+
 ![](https://github.com/Dlavec/Dlavec/blob/main/github_logo%20(1).png)<https://github.com/Dlavec>
 
 ---
