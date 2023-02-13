@@ -17,11 +17,9 @@ I'm an advance student in Atmospheric Sciences and passionate about Data
 * :heartbeat: I love challenges
 
 * :mailbox: Contact me: 
-<div id="header" align="left">
-<img src="https://github.com/Dlavec/Dlavec/blob/main/linkedin_logo.png" title="Linkedin" alt="Linkedin" width="40" height="40"/>&nbsp;
-<img src="https://github.com/Dlavec/Dlavec/blob/main/web_icon.png" title="Web" alt="Web" width="40" height="40"/>&nbsp;
-<img src="https://github.com/Dlavec/Dlavec/blob/main/github_logo.png" title="Github" alt="Github" width="40" height="40"/>&nbsp
-</div>
+[!(https://github.com/Dlavec/Dlavec/blob/main/linkedin_logo.png)](https://www.linkedin.com/in/daianalavecchia/)
+[!(https://github.com/Dlavec/Dlavec/blob/main/web_icon.png)](https://daianalavecchia.wordpress.com/)
+[!(https://github.com/Dlavec/Dlavec/blob/main/github_logo.png" title="Github)](https://github.com/Dlavec)
 
 ---
 ### :hammer_and_wrench: Skills :
