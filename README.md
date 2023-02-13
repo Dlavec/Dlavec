@@ -17,10 +17,10 @@ I'm an advance student in Atmospheric Sciences and passionate about Data
 * :heartbeat: I love challenges
 
 * :mailbox: Contact me: <div id="header" align="left">
-<img src="https://github.com/Dlavec/Dlavec/blob/main/linkedin_logo.png" title="Linkedin" alt="Linkedin" width="20" height="20"/>&nbsp;
-<img src="https://github.com/Dlavec/Dlavec/blob/main/web_icon.png" title="Web" alt="Web" width="20" height="20"/>&nbsp;
-<img src="https://github.com/Dlavec/Dlavec/blob/main/github_logo.png" title="Github" alt="Github" width="20" height="20"/>&nbsp
-<div/>
+<img src="https://github.com/Dlavec/Dlavec/blob/main/linkedin_logo.png" title="Linkedin" alt="Linkedin" width="20" height="40"/>&nbsp;
+<img src="https://github.com/Dlavec/Dlavec/blob/main/web_icon.png" title="Web" alt="Web" width="20" height="40"/>&nbsp;
+<img src="https://github.com/Dlavec/Dlavec/blob/main/github_logo.png" title="Github" alt="Github" width="40" height="20"/>&nbsp
+</div>
 ---
 ### :hammer_and_wrench: Skills :
 <div id="header" align="left">
