@@ -12,7 +12,7 @@ I'm an advance student in Atmospheric Sciences and passionate about Data
 
 * :telescope: I'm currently working on personal projects but I need new challenges :muscle:
 
-* :seedling: I'm studying :blue_book: and practicing :computer: Python, Java Script and also improving my English
+* :seedling: I'm studying :blue_book: and practicing :computer: Java Script and also improving my English
 
 * :heartbeat: I love challenges
 
