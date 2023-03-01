@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/Dlavec/Dlavec/blob/main/Cover_DL_D.png" width="900"/>
-  <h1 align="center">Hi, It's great to see you here!
+  <h1 align="center">Hola, que bueno verte aquí!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -8,12 +8,12 @@
 ---
 ### :woman_technologist: About me : 
 
-I'm an advance student in Atmospheric Sciences and passionate about Data
+Soy estudiante avanzada en Lic. en Ciencias de la Atmósfera y profe de matemática.
 
-* :telescope: Studied meteorological data processing I entered the world of technology and my curiosity and enthusiasm grew. I discovered that data analysis is a very valuable and enriching tool for an infinite number of fields.
+* :telescope: Estudiando el procesamiento del gran volúmen de información meteorológica me adentré en el mundo de la tecnología y mi curiosidad y entusiasmo creció.
+Descubrí que el análisis de datos es una herramienta muy valiosa y enriquecedora para infinitos ámbitos.
 
-* :mailbox: Contact me: 
-
+* :mailbox::
 
 ![](https://github.com/Dlavec/Dlavec/blob/main/linkedin_logo%20(1).png)<https://www.linkedin.com/in/daianalavecchia/>
 
