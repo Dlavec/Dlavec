@@ -6,7 +6,7 @@
 </div>
 
 ---
-### :woman_technologist: About me : 
+### :woman_technologist: Sobre mi : 
 
 Soy estudiante avanzada en Lic. en Ciencias de la Atmósfera y profe de matemática.
 
