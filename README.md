@@ -13,7 +13,7 @@ Soy estudiante avanzada en Lic. en Ciencias de la Atmósfera y profe de matemát
 * :telescope: Estudiando el procesamiento del gran volúmen de información meteorológica me adentré en el mundo de la tecnología y mi curiosidad y entusiasmo creció.
 Descubrí que el análisis de datos es una herramienta muy valiosa y enriquecedora para infinitos ámbitos.
 
-* :mailbox:: ![]<https://www.linkedin.com/in/daianalavecchia/>
+* :mailbox:: <https://www.linkedin.com/in/daianalavecchia/>
 
 ---
 ### :hammer_and_wrench: Skills :
