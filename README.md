@@ -10,9 +10,7 @@
 
 I'm an advance student in Atmospheric Sciences and passionate about Data
 
-* :telescope: I'm currently working on personal projects but I need new challenges :muscle:
-
-* :heartbeat: I love challenges
+* :telescope: Studied meteorological data processing I entered the world of technology and my curiosity and enthusiasm grew. I discovered that data analysis is a very valuable and enriching tool for an infinite number of fields.
 
 * :mailbox: Contact me: 
 
